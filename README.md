@@ -1,5 +1,5 @@
 # ⏳ SUPER LOADER v6.9
-
+- Link to play: https://austinlambdin.github.io/annoying-loader/
 > The world's most annoying loading screen. A simple task: click the button to reach 100%. How hard could it be?
 
 ## ⚠️ WARNING
